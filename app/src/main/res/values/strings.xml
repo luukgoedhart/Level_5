@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_game">CreateGameActivity</string>
+    <string name="title_activity_edit_game">EditGameActivity</string>
+    <string name="title">Title</string>
+    <string name="platform">Platform</string>
+    <string name="status">Status</string>
+    <string name="date">Date</string>
+    <string name="snackbar_undo">Undo</string>
+    <string name="dropdown_option_1">Want to play</string>
+    <string name="dropdown_option_2">Playing</string>
+    <string name="dropdown_option_3">Stalled</string>
+    <string name="dropdown_option_4">Dropped</string>
+    <string name="dateFormat">dd/MM/yyyy</string>
+    <string name="Edit_Game_Action_Bar">Edit Game</string>
+    <string name="snackbar_text_delete_all">Deleted All Games</string>
+    <string name="Create_Game_Action_Bar">Create Game</string>
+</resources>
